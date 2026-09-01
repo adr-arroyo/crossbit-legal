@@ -1,25 +1,32 @@
 # CrossBit Legal
 
-Documentación legal y textos necesarios para publicar CrossBit en Google Play y App Store.
+Documentos legales finales de CrossBit para su publicación en Google Play, App Store y
+la web pública del proyecto.
 
-> Estos documentos son borradores de trabajo y deben ser revisados por asesoría legal antes de publicarse. Sustituye todos los valores entre corchetes (`[PLACEHOLDER]`).
+**Versión publicada:** 1 de septiembre de 2026
 
 ## Documentos
 
-- [Política de Privacidad](./politica-de-privacidad.md)
-- [Términos y Condiciones](./terminos-y-condiciones.md)
-- [Aviso médico](./aviso-medico.md)
-- [Eliminación de datos y cuenta](./eliminacion-de-datos.md)
-- [Textos in-app](./textos-in-app.md)
-- [Formularios de las tiendas](./formularios-tiendas.md)
+- [Política de Privacidad](./privacy.md)
+- [Términos y Condiciones](./terms.md)
+- [Aviso médico](./medical-disclaimer.md)
+- [Eliminación de datos y cuenta](./delete-account.md)
+- [Soporte](./support.md)
+
+También hay versiones en [inglés](./en/).
 
 ## Datos del proyecto
 
 - **Aplicación:** CrossBit
 - **ID:** `com.crossbit.app`
-- **IA:** Gemini vía Vertex AI
-- **Datos de salud:** almacenamiento local en el dispositivo
+- **Autenticación cloud:** Firebase Authentication con email y contraseña
+- **IA cloud:** Gemini 3.5 Flash vía cloud-proxy y Vertex AI
+- **Suscripciones:** CrossBit Pro mediante RevenueCat y las tiendas correspondientes
+- **Publicidad:** banners contextuales para cuentas Gratis cuando el build de release la activa; consentimiento mediante Google UMP
+- **Datos de salud y actividad:** almacenamiento local en el dispositivo; no hay sincronización general con un servidor
 
-## Antes de publicar
+## Estado de los documentos
 
-Completa como mínimo el responsable legal, los datos de contacto, las URLs públicas y la fecha de entrada en vigor en los documentos correspondientes.
+Las páginas públicas mantienen las mismas condiciones en español e inglés y reflejan el
+flujo actual de cuenta, coach cloud, reportes voluntarios de contenido IA, suscripciones,
+publicidad contextual y eliminación de datos.
