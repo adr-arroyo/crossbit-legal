@@ -4,7 +4,7 @@ permalink: /terms.html
 
 # Términos y Condiciones de Uso de CrossBit
 
-**Última actualización:** 1 de septiembre de 2026
+**Última actualización:** 2 de septiembre de 2026
 
 Estos Términos y Condiciones ("Términos") regulan el uso de la aplicación CrossBit
 (`com.crossbit.app`), proporcionada por Adrián Arroyo Pérez ("nosotros"). Al instalar

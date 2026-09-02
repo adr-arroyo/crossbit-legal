@@ -4,7 +4,7 @@ permalink: /en/terms.html
 
 # CrossBit Terms and Conditions
 
-**Last updated:** 1 September 2026
+**Last updated:** 2 September 2026
 
 These Terms and Conditions (the “Terms”) govern your use of the CrossBit application
 (`com.crossbit.app`), provided by Adrián Arroyo Pérez (“we” or “us”). By installing

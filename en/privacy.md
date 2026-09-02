@@ -4,7 +4,7 @@ permalink: /en/privacy.html
 
 # CrossBit Privacy Policy
 
-**Last updated:** 1 September 2026
+**Last updated:** 2 September 2026
 
 This Privacy Policy explains how CrossBit ("the app", "we", "us") processes personal
 data when you use the CrossBit mobile application (`com.crossbit.app`) on Android or

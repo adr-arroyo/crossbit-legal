@@ -3,7 +3,7 @@
 Documentos legales finales de CrossBit para su publicación en Google Play, App Store y
 la web pública del proyecto.
 
-**Versión publicada:** 1 de septiembre de 2026
+**Versión publicada:** 2 de septiembre de 2026
 
 ## Documentos
 
