@@ -7,8 +7,7 @@ permalink: /en/privacy.html
 **Last updated:** 2 September 2026
 
 This Privacy Policy explains how CrossBit ("the app", "we", "us") processes personal
-data when you use the CrossBit mobile application (`com.crossbit.app`) on Android or
-iOS.
+data when you use the CrossBit mobile application on Android or iOS.
 
 ## 1. Controller
 

@@ -7,8 +7,7 @@ permalink: /privacy.html
 **Última actualización:** 2 de septiembre de 2026
 
 Esta Política de Privacidad explica cómo CrossBit ("la aplicación", "nosotros") trata
-tus datos personales cuando usas la aplicación móvil CrossBit (`com.crossbit.app`) en
-Android e iOS.
+tus datos personales cuando usas la aplicación móvil CrossBit en Android e iOS.
 
 ## 1. Responsable del tratamiento
 

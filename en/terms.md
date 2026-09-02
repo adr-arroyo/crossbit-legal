@@ -6,8 +6,8 @@ permalink: /en/terms.html
 
 **Last updated:** 2 September 2026
 
-These Terms and Conditions (the “Terms”) govern your use of the CrossBit application
-(`com.crossbit.app`), provided by Adrián Arroyo Pérez (“we” or “us”). By installing
+These Terms and Conditions (the “Terms”) govern your use of the CrossBit application,
+provided by Adrián Arroyo Pérez (“we” or “us”). By installing
 or using CrossBit, you accept these Terms. If you do not agree, do not use the app.
 
 ## 1. Service description

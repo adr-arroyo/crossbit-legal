@@ -18,7 +18,6 @@ También hay versiones en [inglés](./en/).
 ## Datos del proyecto
 
 - **Aplicación:** CrossBit
-- **ID:** `com.crossbit.app`
 - **Autenticación cloud:** Firebase Authentication con email y contraseña
 - **IA cloud:** Gemini 3.7 Flash vía el proxy autenticado de CrossBit y Vertex AI
 - **Suscripciones:** CrossBit Pro mediante RevenueCat y las tiendas correspondientes
