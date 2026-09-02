@@ -107,11 +107,14 @@ Consulta las políticas de [RevenueCat](https://www.revenuecat.com/privacy),
 
 Cuando usas el coach cloud, tu mensaje y el contexto necesario —por ejemplo,
 entrenamientos, comidas o métricas relevantes para tu pregunta— se envían a **Gemini
-3.5 Flash mediante Vertex AI (Google Cloud)** para generar la respuesta. Las imágenes
+3.7 Flash mediante Vertex AI (Google Cloud)** para generar la respuesta. Las imágenes
 y otros archivos solo se envían cuando activas la función correspondiente.
 
 - Antes del primer envío solicitamos un consentimiento específico para IA cloud. Sin
   sesión verificada o sin ese consentimiento, la petición no se envía.
+- Este consentimiento para enviar datos a la IA cloud es independiente de los permisos
+  de micrófono/cámara, Health Connect, el consentimiento publicitario de Google UMP y
+  cualquier consentimiento general; aceptar uno no autoriza los demás.
 - Nuestro cloud-proxy reenvía la petición y la respuesta en memoria. No guarda el cuerpo
   de la petición ni la respuesta y sus registros contienen solo metadatos técnicos,
   como método, ruta, estado, duración y `uid`, para seguridad y diagnóstico.

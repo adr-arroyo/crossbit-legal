@@ -59,8 +59,8 @@ manages consent and privacy options where applicable.
 - AI coach responses, analyses, plans and recommendations are generated automatically
   and **may be inaccurate, incomplete or unsuitable** for your situation.
 - The cloud coach receives only the message and context needed to respond, after the
-  relevant specific consent has been requested. The CrossBit proxy does not store the
-  request or response body as an activity history.
+  relevant specific consent has been requested. The CrossBit authenticated proxy does
+  not store the request or response body as an activity history.
 - The on-device coach processes requests locally after the relevant model has been
   downloaded.
 - AI content does not replace medical, nutritional or other professional advice. See

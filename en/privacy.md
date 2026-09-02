@@ -105,12 +105,15 @@ See the privacy policies of [RevenueCat](https://www.revenuecat.com/privacy),
 ### 3.5. Data sent to the cloud AI coach
 
 When you use the cloud coach, your message and the necessary context—for example,
-recent workouts, meals or metrics relevant to your question—are sent to **Gemini 3.5
+recent workouts, meals or metrics relevant to your question—are sent to **Gemini 3.7
 Flash through Vertex AI (Google Cloud)** to generate a response. Images and other
 files are sent only when you activate the relevant feature.
 
 - Before the first transmission, we request specific consent for cloud AI. Without a
   verified session or that consent, the request is not sent.
+- This consent to send data to cloud AI is independent from microphone/camera
+  permissions, Health Connect, Google UMP advertising consent and any general consent;
+  accepting one does not authorize the others.
 - Our cloud proxy forwards the request and response in memory. It does not store the
   request body or response; its logs contain only technical metadata such as method,
   route, status, duration and `uid` for security and diagnostics.

@@ -65,8 +65,8 @@ corresponde.
   automáticamente y **pueden contener errores, estar incompletos o no ser adecuados**
   para tu situación.
 - El coach cloud recibe únicamente el mensaje y el contexto necesario para responder,
-  después de solicitar el consentimiento específico correspondiente. El proxy de
-  CrossBit no guarda el cuerpo de la petición ni la respuesta como historial de
+  después de solicitar el consentimiento específico correspondiente. El proxy
+  autenticado de CrossBit no guarda el cuerpo de la petición ni la respuesta como historial de
   actividad.
 - El coach en el dispositivo procesa la petición localmente una vez descargado el
   modelo correspondiente.

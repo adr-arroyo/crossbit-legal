@@ -20,7 +20,7 @@ También hay versiones en [inglés](./en/).
 - **Aplicación:** CrossBit
 - **ID:** `com.crossbit.app`
 - **Autenticación cloud:** Firebase Authentication con email y contraseña
-- **IA cloud:** Gemini 3.5 Flash vía cloud-proxy y Vertex AI
+- **IA cloud:** Gemini 3.7 Flash vía el proxy autenticado de CrossBit y Vertex AI
 - **Suscripciones:** CrossBit Pro mediante RevenueCat y las tiendas correspondientes
 - **Publicidad:** banners contextuales para cuentas Gratis cuando el build de release la activa; consentimiento mediante Google UMP
 - **Datos de salud y actividad:** almacenamiento local en el dispositivo; no hay sincronización general con un servidor
